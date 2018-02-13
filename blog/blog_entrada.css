@@ -1,0 +1,101 @@
+body {
+  background-image: url('img/fons1.jpg');
+  background-attachment:fixed;
+
+}
+
+#plana{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  padding: 2px;
+}
+header {
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	box-shadow: 1px 1px 20px 5px white;
+	padding: 1px;
+	background-image: url('img/capcalera2.jpg');
+	height:200px;
+
+}
+
+photo {
+	padding: 1px;
+	height:200px;
+	width: 100%;
+
+}
+
+header h1{
+	margin-top:70px;
+	font-size: 3em;
+	padding-left:20px;
+	color:white;
+}
+
+#cos {
+	margin-top: 20px;
+	padding: 1px;
+}
+
+footer {
+	text-align:center;
+	font-size: 0.7em;
+}
+
+aside {
+	font-family: "Arial", sans-serif;
+	width: 20%;
+	float:left;
+}
+
+aside h2{
+  text-align: center;
+}
+aside li{
+	text-align: center;
+	list-style: none;
+	padding:3px;
+	opacity:0.5;
+	margin-top:5px;
+	background-color:white;
+
+}
+
+aside ol {
+margin: 0;
+padding: 0;
+}
+
+
+aside li:hover {
+	opacity:1;
+}
+
+#contingut {
+	width: 100%;
+	text-align: justify;
+}
+
+article {
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: #B40404;
+	padding: 30px;
+	margin: 130x;
+	background-color:white;
+	font-family: "Arial", sans-serif;
+	line-height: 24px;
+	
+}
+
+#destacat {
+	background-color:#F6CECE;
+	border-color: #B40404;
+	border-style: double;
+	font-family: "Arial", sans-serif;
+	color: #666
+}
